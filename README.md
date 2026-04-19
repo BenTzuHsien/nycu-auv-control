@@ -1,4 +1,4 @@
-# NYCU AUV — STM32 Firmware
+# NYCU AUV — STM32 Control
 
 This repository contains the STM32-based low-level layer for the NYCU Autonomous Underwater Vehicle (AUV), developed for competition in the 2022 Singapore Autonomous Underwater Vehicle Challenge (SAUVC). The team qualified among 93 teams from 19 countries and competed on-site in Singapore.
 
