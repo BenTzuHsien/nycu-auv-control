@@ -4,6 +4,8 @@ This repository contains the STM32-based low-level layer for the NYCU Autonomous
 
 > **Note:** This repository covers the low-level embedded layer running on the STM32F407. The high-level layer (ROS, task planning, computer vision) is not included as those files are no longer available, but the full system architecture is documented below for reference.
 
+![AUV Teaser](assets/auv_teaser.gif)
+
 ---
 
 ## Achievements
